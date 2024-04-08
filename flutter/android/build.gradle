@@ -43,6 +43,8 @@ android {
     defaultConfig {
         minSdkVersion 26
     }
+
+    namespace 'com.ricoh360.thetaclient.theta_client_flutter'
 }
 
 dependencies {
